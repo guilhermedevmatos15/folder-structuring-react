@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import App from './App';
 
 // ? CSS
+import './styles/index.css'
 
 // ? Images
 
