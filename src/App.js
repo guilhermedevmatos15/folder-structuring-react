@@ -4,7 +4,7 @@
 import './styles/css/App.css';
 
 // ? Scripts
-import './scripts/smoothScroll';
+import './libs/smoothScroll';
 
 
 function App() {
