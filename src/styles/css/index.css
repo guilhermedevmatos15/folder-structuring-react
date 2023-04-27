@@ -19,5 +19,5 @@
 body {
    width: 100%;
    height: auto;
-   font-family: var(--font-padrao);
+   font-family: var(--font-default);
 }

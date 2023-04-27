@@ -1,9 +1,10 @@
 // ? Components
 
 // ? CSS
-import './styles/App.css'
+import './styles/css/App.css';
 
-// ? Images
+// ? Scripts
+import './scripts/smoothScroll';
 
 
 function App() {

@@ -6,9 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import App from './App';
 
 // ? CSS
-import './styles/index.css'
-
-// ? Images
+import './styles/css/index.css'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
