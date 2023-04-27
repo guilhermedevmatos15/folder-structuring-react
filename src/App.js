@@ -3,9 +3,6 @@
 // ? CSS
 import './styles/css/App.css';
 
-// ? Scripts
-import './libs/smoothScroll';
-
 
 function App() {
    return (
