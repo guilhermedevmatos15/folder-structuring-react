@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import reportWebVitals from './reportWebVitals';
+import reportWebVitals from './tests/reportWebVitals';
 
 // ? Components
 import App from './App';
 
 // ? CSS
-import './styles/css/index.css'
+import './index.css';
 
 // ? Libs
 import initSmoothScroll from './libs/smoothScroll';
@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
     initSmoothScroll(115, 1400);
   }, 500);
 });
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

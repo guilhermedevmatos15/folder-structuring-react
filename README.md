@@ -1,3 +1,3 @@
-# Meu sistemas de pastas React 🤓
+# Your Aplication Name
 
-- Sim eu fiz questão em criar isto para poupar tempo na criação de projetos... Sempre quando executamos <code>npx create-react-app my-app</code> temos que fazer 1000 coisas antes de começar o projeto, seja apagar comentários, criar pastas... Então decidi criar esse facilitador de projeto, é importante você aí que tá usando analisar o que estou deletando e alterando! <strong>Bom desenvolvimento!</strong> A sim, já iria me esquecendo, substitua seus arquivos por estes assim que criar a pasta do projeto!
+Description your aplication
