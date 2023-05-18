@@ -3,7 +3,7 @@ import React from 'react';
 // * Components
 
 // * CSS
-import './defaultComponent';
+import './defaultComponent.css';
 
 // * Images
 
