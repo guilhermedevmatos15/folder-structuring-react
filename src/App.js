@@ -1,5 +1,3 @@
-// ? Components
-
 
 const App = () => {
    return (

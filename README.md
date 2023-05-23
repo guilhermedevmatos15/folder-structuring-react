@@ -5,9 +5,8 @@ Description your aplication
 - Build made by <a href='https://github.com/guilhermedevmatos15' target='_blank'>Guilherme Ferreira</a>
 
 
-## Bibliotecas que recomendo
-- React icons
-- AOS Animation
+## Dependências já instaladas:
+No momento nenhuma...
 
 ## Ideia de commits semânticos para front-end
 
