@@ -6,8 +6,9 @@ Description your aplication
 
 
 ## Bibliotecas já instaladas:
+- react-router-dom
 - react-icons
-- aos (Animations)
+- aos
 
 ## Ideia de commits semânticos para front-end
 

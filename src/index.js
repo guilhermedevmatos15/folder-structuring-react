@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom/client';
 import reportWebVitals from './tests/reportWebVitals';
 
 // ? Components
-import App from './App';
+import Routes from './routes';
 
 // ? CSS
-import './index.css';
+import './app/assets/styles/index.css';
 
 // ? Libs
-import initSmoothScroll from './libs/smoothScroll';
+import initSmoothScroll from './app/libs/smoothScroll';
 
 document.addEventListener('DOMContentLoaded', function() {
   setTimeout(() => {
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Routes />
   </React.StrictMode>
 );
 

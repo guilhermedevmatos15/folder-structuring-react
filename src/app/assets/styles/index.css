@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/* variables */
 :root {
    --color-01: #ed1b1b;
    --color-02: #2369e3;
@@ -19,8 +20,5 @@
 body, .root {
    width: 100%;
    height: auto;
-}
-
-body {
    font-family: var(--font-default);
 }
