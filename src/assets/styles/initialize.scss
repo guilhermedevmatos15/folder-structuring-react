@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@import './variables.scss';
+
+* {
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+
+body, .root {
+   width: 100%;
+   height: auto;
+   font-family: $font-default;
+}
