@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 
 // * Libs
-import initSmoothScroll from './app/libs/smoothScroll';
+import initSmoothScroll from './libs/smoothScroll';
 
 
 const App = () => {
@@ -10,7 +10,8 @@ const App = () => {
    }, []);
 
    return (
-      <>         
+      <>
+      
       </>
    );
 }

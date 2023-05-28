@@ -4,11 +4,16 @@ Description your aplication
 
 - Build made by <a href='https://github.com/guilhermedevmatos15' target='_blank'>Guilherme Ferreira</a>
 
+## Requer conhecimentos:
+- Básico de react
+- Sass
+- React Router
 
 ## Bibliotecas já instaladas:
 - react-router-dom
 - react-icons
 - aos
+- node-sass
 
 ## Ideia de commits semânticos para front-end
 
@@ -28,7 +33,7 @@ Exemplo => style: estilizado o header da Home.
 
 ## Detalhes para não esquecer
 No final do projeto:
-- Ceritifique-se que os arquivos estão arrumados corretamentes
+- Ceritifique-se que os arquivos estão arrumados corretamente
 - Se tem partes do código que podem virar componentes
 - Se estilos estão certos
 - Se alguma tag segue um padrão de estilo (inputs, buttons etc...) coloque esses estilos num CSS Global

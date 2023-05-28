@@ -2,7 +2,7 @@ import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 // * Components
-import App from './app/container/App';
+import App from './App';
 
 const Routes = (props) => {
    const Router = createBrowserRouter([
@@ -10,7 +10,10 @@ const Routes = (props) => {
          path: '/',
          element: <App />,
          children: [
-
+            {
+               path: '',
+               element: ''
+            }
          ]
       }
    ]);
