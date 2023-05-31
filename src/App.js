@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { Outlet } from 'react-router-dom';
 
 // * Libs
 import initSmoothScroll from './libs/smoothScroll';
@@ -11,7 +12,7 @@ const App = () => {
 
    return (
       <>
-      
+         <Outlet />
       </>
    );
 }

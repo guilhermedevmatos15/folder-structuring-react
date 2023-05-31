@@ -4,12 +4,7 @@ Description your aplication
 
 - Build made by <a href='https://github.com/guilhermedevmatos15' target='_blank'>Guilherme Ferreira</a>
 
-## Requer conhecimentos:
-- Básico de react
-- Sass
-- React Router
-
-## Bibliotecas já instaladas:
+## Bibliotecas usadas:
 - react-router-dom
 - react-icons
 - aos

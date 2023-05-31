@@ -5,8 +5,8 @@ import reportWebVitals from './tests/reportWebVitals';
 // * Router
 import Routes from './Routes';
 
-// * CSS
-import './assets/styles/_styles.scss';
+// * Styles
+import './styles/global/main.scss';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
