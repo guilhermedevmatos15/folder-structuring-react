@@ -15,7 +15,7 @@ import './MyComp.scss';
 const MyComp = ({ prop }) => {
    return (
       <div className="MyComp">
-         
+
       </div>
    );
 };

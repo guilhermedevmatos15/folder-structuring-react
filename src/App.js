@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { Outlet } from 'react-router-dom';
 
 // * Libs
-import initSmoothScroll from './libs/smoothScroll';
+import initSmoothScroll from './app/libs/smoothScroll';
 
 
 const App = () => {

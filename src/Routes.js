@@ -11,7 +11,7 @@ const Routes = (props) => {
          element: <App />,
          children: [
             {
-               path: '',
+               path: '/',
                element: ''
             }
          ]
