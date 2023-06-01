@@ -9,15 +9,15 @@ import './app/styles/global/main.scss';
 import Routes from './Routes';
 
 // * Contexts
-import Global from './app/contexts/Global';
+import ContextGlobal from './app/contexts/ContextGlobal';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
    <React.StrictMode>
-      <Global>
+      <ContextGlobal>
          <Routes />
-      </Global>
+      </ContextGlobal>
    </React.StrictMode>
 );
 
